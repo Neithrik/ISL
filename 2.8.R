@@ -23,6 +23,3 @@ hist(college$Accept);
 hist(college$Enroll);
 hist(college$F.Undergrad);
 hist(college$P.Undergrad);
-
-
-
